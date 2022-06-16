@@ -1,5 +1,5 @@
 # Brian Teeters
-# caseStudy.py
+# file location: SDEV-220/M02/caseStudy.py
 
 # This program is for SDEV 220 M02 Lab - Case Study.
 # It will accept user input of last and first names as well as GPA.
