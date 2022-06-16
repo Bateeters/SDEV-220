@@ -6,6 +6,10 @@
 # It will then test to see if the student made either the Dean's List or Honor Roll.
 # Entering "ZZZ" will quit the program.
 
+# lastName = input of student last name, string
+# firstName = input of student first name, string
+# gpa = input of student GPA, float
+
 
 '''
 Write a Python app that will accept student names and GPAs and
